@@ -25,4 +25,4 @@ This requires that you have the necessary software installed.  See
 
 ## Contributing
 
-Please do not contribute to this obsolete draft, contribute [here]((https://github.com/quicwg/version-negotiation/)) instead.
+Please do not contribute to this obsolete draft, contribute [here](https://github.com/quicwg/version-negotiation/) instead.

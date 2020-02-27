@@ -1,6 +1,11 @@
+# IMPORTANT: Obsolete Draft
+
+This repository contains draft-schinazi-quic-version-negotiation which has now been replaced by draft-ietf-quic-version-negotiation.
+[Please click here to go to the new repository.](https://github.com/quicwg/version-negotiation/)
+
 # Compatible Version Negotiation for QUIC
 
-This is the working area for the individual Internet-Draft, "Compatible Version Negotiation for QUIC".
+This is the working area for the OBSOLETE individual Internet-Draft, "Compatible Version Negotiation for QUIC".
 
 * [Editor's Copy](https://ekr.github.io/draft-schinazi-quic-version-negotiation/#go.draft-schinazi-quic-version-negotiation.html)
 * [Individual Draft](https://tools.ietf.org/html/draft-schinazi-quic-version-negotiation)
@@ -20,5 +25,4 @@ This requires that you have the necessary software installed.  See
 
 ## Contributing
 
-See the
-[guidelines for contributions](https://github.com/ekr/draft-schinazi-quic-version-negotiation/blob/master/CONTRIBUTING.md).
+Please do not contribute to this obsolete draft, contribute [here]((https://github.com/quicwg/version-negotiation/)) instead.
